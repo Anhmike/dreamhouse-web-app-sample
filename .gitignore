@@ -1,0 +1,10 @@
+/node_modules/
+/.sourcemaps/
+/www/
+/platforms/
+/plugins/
+/npm-debug.log
+/.idea/
+*.swp
+.DS_Store
+Thumbs.db
