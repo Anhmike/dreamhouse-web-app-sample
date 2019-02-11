@@ -33,3 +33,4 @@ Use Heroku Connect:
 1. Create a read-write mapping in Heroku Connect for `Favorite__c` with `id__c` selected for the unique id for writes and add the `property__c` field to the mapping
 1. Restart the app so the new database tables are used
 1. Check out the app and verify that sync works by changing a property's price in Salesforce
+"# dreamhouse-web-app-sample" 
